@@ -1,11 +1,4 @@
-[![Header](https://github.com/avelycure/avelycure/blob/master/Assets/profilePhoto.jpeg =250x)](https://www.youtube.com/channel/UCzSWR2CWxIMxpvAPVSUeQ3Q)
-<style>
-   .fig {
-    text-align: center;
-   }
-  </style>
-<p class="fig"><img src="https://github.com/avelycure/avelycure/blob/master/Assets/profilePhoto.jpeg" 
-   width="500" alt="drawing"></p>
+[![Header](https://github.com/avelycure/avelycure/blob/master/Assets/profilePhoto.jpeg)](https://www.youtube.com/channel/UCzSWR2CWxIMxpvAPVSUeQ3Q)
 # Обо мне
 
 ## Основная информация
@@ -14,20 +7,19 @@
 ## Мои интересы 
 Я разрабатываю Android приложения, и программирую на Java и C++. Также у меня есть канал на YouTube, где я выкладываю видео на тему программирования.
 
-## What I am doing now
-Now I am developing a Photo Gallery application using the Flicker REST API site. Check my repositories, if you want to know more about this project.
+## Чем я сейчас занимаюсь
+В рамках курса по разработке Android приложений от MRG разрабатываю приложение для упрощения поиска по игре D&D.
 
-## What you can find in my repositories
-* numerical methods for solving differential equations[[1]](https://github.com/avelycure/NumericalMethods "See more")
-* coursework on the subject "Differential Equations"[[2]](https://github.com/avelycure/Dynamic-equilibrium-of-the-Chelomey-pendulum)
-* android application that can display you images by keyword[[3]](https://github.com/avelycure/PhotoGallery "See more")
-* application that can show you my timetable[[4]](https://github.com/avelycure/MyTimetable "See more")
+## Что вы можете найти в моих репозиториях
+* мои научные работы[[1]](https://github.com/avelycure/ScientificWork "See more")
+* Android приложение PhotoGallery[[3]](https://github.com/avelycure/PhotoGallery "See more")
+* Android приложение MyTimetable[[4]](https://github.com/avelycure/MyTimetable "See more")
 
 ## В скором времени
-Soon I will add my applications for solving Eight queens problem and finding minimal convex hull of set of points. Follow the updates on my page.
+Как только появится возможность постараюсь выложить мои решения проблемы 8 ферзей и поиска минимальной выпуклой оболочки множества точек. Следите за обновлениями на моей странице.
 
 ## Свяжитесь со мной
-If you want to contact me, you can click on the links below or send me e-mail: van.emelin2012@yandex.ru.
+Если вы хотите со мной связаться кликните по ссылкам ниже или напишите мне на почту: van.emelin2012@yandex.ru.
 
 # Ссылки на видео
 <!-- YOUTUBE:START -->
