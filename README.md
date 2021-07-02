@@ -1,4 +1,4 @@
-[![Header](https://github.com/avelycure/avelycure/blob/master/Assets/profilePhoto.jpeg)](https://www.youtube.com/channel/UCzSWR2CWxIMxpvAPVSUeQ3Q)
+[![Header](https://github.com/avelycure/avelycure/blob/master/Assets/profilePhoto.jpeg = 250x)](https://www.youtube.com/channel/UCzSWR2CWxIMxpvAPVSUeQ3Q)
 <img src="https://github.com/avelycure/avelycure/blob/master/Assets/profilePhoto.jpeg" alt="drawing" width="200"/>
 # Обо мне
 
