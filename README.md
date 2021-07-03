@@ -20,14 +20,14 @@
 ## Свяжитесь со мной
 Если вы хотите со мной связаться кликните по ссылкам ниже или напишите мне на почту: van.emelin2012@yandex.ru.
 
-# Ссылки на видео
+## Ссылки на видео
 <!-- YOUTUBE:START -->
 - [[1] Создание класса CVector в C++. Конструктор по умолчанию, деструктор. Методы get() и set().](https://www.youtube.com/watch?v=DlyfEXyd7jk)
 - [[0] Создание класса CVector в C++. Введение.](https://www.youtube.com/watch?v=p-vh5NBAYS0)
 - [Чтение файлов JSON в C++](https://www.youtube.com/watch?v=1pUVp9zH_Nw)
 <!-- YOUTUBE:END -->
 
-# Профессиональные навыки
+## Профессиональные навыки
 ![Java](https://img.shields.io/badge/-java-A01368?style=for-the-badge&logo=java&logoColor=F7AD2B)
 ![C++](https://img.shields.io/badge/-c++-A01368?style=for-the-badge&logo=C%2b%2b&logoColor=377FE6)
 ![Android](https://img.shields.io/badge/-android-A01368?style=for-the-badge&logo=Android&logoColor=3BF72B)
@@ -35,7 +35,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-A01368?style=for-the-badge&logo=kotlin&logoColor=0D30CE)
 ![Spring](https://img.shields.io/badge/-spring-A01368?style=for-the-badge&logo=spring&logoColor=1BDA5D)
 
-# Подпишитесь на меня
+## Подпишитесь на меня
 [![YouTube](https://img.shields.io/badge/-YouTube-A01368?style=for-the-badge&logo=YouTube&logoColor=FF2400)](https://www.youtube.com/channel/UCzSWR2CWxIMxpvAPVSUeQ3Q)
 [![VKontakte](https://img.shields.io/badge/-Vkontakte-A01368?style=for-the-badge&logo=Vk&logoColor=377FE6)](https://vk.com/ivaneme1in)
 [![Telegram](https://img.shields.io/badge/-Telegram-A01368?style=for-the-badge&logo=Telegram&logoColor=377FE6)](ivan_emelin)
