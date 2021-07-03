@@ -1,6 +1,4 @@
-# Обо мне
-
-## Основная информация
+## Обо мне
 Привет, меня зовут Емелин Иван мне 21, я студент 4 курса МГТУ им. Баумана кафедры Прикладная Математика.
 
 ## Мои интересы 
@@ -35,7 +33,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-A01368?style=for-the-badge&logo=kotlin&logoColor=0D30CE)
 ![Spring](https://img.shields.io/badge/-spring-A01368?style=for-the-badge&logo=spring&logoColor=1BDA5D)
 
-# Follow me
+# Подпишитесь на меня
 [![YouTube](https://img.shields.io/badge/-YouTube-A01368?style=for-the-badge&logo=YouTube&logoColor=FF2400)](https://www.youtube.com/channel/UCzSWR2CWxIMxpvAPVSUeQ3Q)
 [![VKontakte](https://img.shields.io/badge/-Vkontakte-A01368?style=for-the-badge&logo=Vk&logoColor=377FE6)](https://vk.com/ivaneme1in)
-[![Telegram](https://img.shields.io/badge/-Telegram-A01368?style=for-the-badge&logo=Telegram&logoColor=377FE6)](@ivan_emelin)
+[![Telegram](https://img.shields.io/badge/-Telegram-A01368?style=for-the-badge&logo=Telegram&logoColor=377FE6)](ivan_emelin)
