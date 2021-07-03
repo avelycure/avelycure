@@ -7,8 +7,10 @@
 ## Чем я сейчас занимаюсь
 В рамках курса по разработке Android приложений от MRG разрабатываю приложение для упрощения поиска по игре D&D.
 
+
 ## Что вы можете найти в моих репозиториях
 * мои научные работы[[1]](https://github.com/avelycure/ScientificWork "See more")
+* мои сертификаты о прохождении различных курсов по программированию[[2]](https://github.com/avelycure/MyCertificates "See more")
 * Android приложение PhotoGallery[[3]](https://github.com/avelycure/PhotoGallery "See more")
 * Android приложение MyTimetable[[4]](https://github.com/avelycure/MyTimetable "See more")
 
