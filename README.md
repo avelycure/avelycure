@@ -1,4 +1,3 @@
-[![Header](https://github.com/avelycure/avelycure/blob/master/Assets/profilePhoto.jpeg)](https://www.youtube.com/channel/UCzSWR2CWxIMxpvAPVSUeQ3Q)
 # Обо мне
 
 ## Основная информация
