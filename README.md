@@ -24,7 +24,7 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-A01368?style=for-the-badge&logo=YouTube&logoColor=FF2400)](https://www.youtube.com/channel/UCzSWR2CWxIMxpvAPVSUeQ3Q)
 [![VKontakte](https://img.shields.io/badge/-Vkontakte-A01368?style=for-the-badge&logo=Vk&logoColor=377FE6)](https://vk.com/ivaneme1in)
 [![Telegram](https://img.shields.io/badge/-Telegram-A01368?style=for-the-badge&logo=Telegram&logoColor=377FE6)](ivan_emelin)
-## :chart_with_upwards_trend Статистика
+## 📊 Статистика
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?&username=avelycure&count_private=true&theme=radical)](https://github.com/avelycure) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avelycure&hide=MakeFile,Meson&langs_count=4&theme=radical)](https://github.com/avelycure)
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avelycure/avelycure?label=last%20update"> <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=avelycure&color=yellow"/></a>
