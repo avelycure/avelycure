@@ -29,4 +29,4 @@
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avelycure/avelycure?label=last%20update"> <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=avelycure&color=yellow"/></a>
 
-*На заметку: Топ языков программирования не показывает мой уровень владения ими или что-либо в этом роде, это просто статистика github [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*На заметку: Топ языков программирования не показывает мой уровень владения, это просто статистика github([github-readme-stats])(https://github.com/anuraghazra/github-readme-stats)*
