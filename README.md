@@ -24,6 +24,4 @@
 [![VKontakte](https://img.shields.io/badge/-Vkontakte-A01368?style=for-the-badge&logo=Vk&logoColor=377FE6)](https://vk.com/ivaneme1in)
 [![Telegram](https://img.shields.io/badge/-Telegram-A01368?style=for-the-badge&logo=Telegram&logoColor=377FE6)](ivan_emelin)
 
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=avelycure&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/avelycure) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avelycure&hide=MakeFile,Meson&langs_count=4)](https://github.com/avelycure)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ivan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=avelycure&langs_count=4&theme=radical&hide_border=true&bg_color=1F222E&title_color=F86666&icon_color=F8D866" height="192px"/></a>
