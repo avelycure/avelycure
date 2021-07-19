@@ -24,6 +24,6 @@
 [![VKontakte](https://img.shields.io/badge/-Vkontakte-A01368?style=for-the-badge&logo=Vk&logoColor=377FE6)](https://vk.com/ivaneme1in)
 [![Telegram](https://img.shields.io/badge/-Telegram-A01368?style=for-the-badge&logo=Telegram&logoColor=377FE6)](ivan_emelin)
 
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=avelycure&count_private=true&show_icons=true&theme=highcontrast))
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=avelycure&count_private=true&show_icons=true&theme=dracula))
 )](https://github.com/anuraghazra/github-readme-stats)
 
