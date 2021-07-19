@@ -25,3 +25,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-A01368?style=for-the-badge&logo=Telegram&logoColor=377FE6)](ivan_emelin)
 
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=avelycure&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/avelycure) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avelycure&hide=MakeFile,Meson&langs_count=4&theme=radical)](https://github.com/avelycure)
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avelycure/avelycure?label=last%20update"> <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=avelycure&color=yellow"/></a>
