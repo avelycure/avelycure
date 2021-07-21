@@ -7,12 +7,6 @@
 * Android приложение MyTimetable[[4]](https://github.com/avelycure/MyTimetable "See more")
 ## 📫 Свяжитесь со мной
 Если вы хотите со мной связаться кликните по ссылкам ниже или напишите мне на почту: van.emelin2012@yandex.ru.
-## 🎦 Ссылки на видео
-<!-- YOUTUBE:START -->
-* [[1] Создание класса CVector в C++. Конструктор по умолчанию, деструктор. Методы get() и set().](https://www.youtube.com/watch?v=DlyfEXyd7jk)
-* [[0] Создание класса CVector в C++. Введение.](https://www.youtube.com/watch?v=p-vh5NBAYS0)
-* [Чтение файлов JSON в C++](https://www.youtube.com/watch?v=1pUVp9zH_Nw)
-<!-- YOUTUBE:END -->
 ## 😊Профессиональные навыки
 ![Java](https://img.shields.io/badge/-java-A01368?style=for-the-badge&logo=java&logoColor=F7AD2B)
 ![C++](https://img.shields.io/badge/-c++-A01368?style=for-the-badge&logo=C%2b%2b&logoColor=377FE6)
