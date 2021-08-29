@@ -17,7 +17,7 @@
 ![Coroutines](https://img.shields.io/badge/-Coroutines-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
 ![Firebase](https://img.shields.io/badge/-Firebase-A01368?style=for-the-badge&logo=firebase&logoColor=0D30CE)
 ![C++](https://img.shields.io/badge/-c++-A01368?style=for-the-badge&logo=C%2b%2b&logoColor=377FE6)
-![PostrgreSQL](https://img.shields.io/badge/-sql-A01368?style=for-the-badge&logo=postgresql&logoColor=F7AD2B)
+![PostrgreSQL](https://img.shields.io/badge/-PostrgreSQL-A01368?style=for-the-badge&logo=postgresql&logoColor=F7AD2B)
 ![Git](https://img.shields.io/badge/-Git-A01368?style=for-the-badge&logo=git&logoColor=FF2400)
 ## 😎Подпишитесь на меня
 [![VKontakte](https://img.shields.io/badge/-Vkontakte-A01368?style=for-the-badge&logo=Vk&logoColor=377FE6)](https://vk.com/ivaneme1in)
