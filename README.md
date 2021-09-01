@@ -4,6 +4,7 @@
 * Android приложение PhotoGallery[[1]](https://github.com/avelycure/PhotoGallery "See more")
 * Android приложение MyTimetable[[2]](https://github.com/avelycure/MyTimetable "See more")
 * мои научные работы[[3]](https://github.com/avelycure/ScientificWork "See more")
+* решение задач с leetcode.com [[4]](https://github.com/avelycure/LeetcodePractice)
 ## 📫 Свяжитесь со мной
 Если вы хотите со мной связаться кликните по ссылкам ниже или напишите мне на почту: van.emelin2012@yandex.ru.
 ## 😊Профессиональные навыки
