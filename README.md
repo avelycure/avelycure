@@ -8,12 +8,12 @@
 ## 📫 Свяжитесь со мной
 Если вы хотите со мной связаться кликните по ссылкам ниже или напишите мне на почту: van.emelin2012@yandex.ru.
 ## 😊Профессиональные навыки
-https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
-https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
-![C++](https://img.shields.io/badge/-c++-A01368?style=for-the-badge&logo=C%2b%2b)
-![Git](https://img.shields.io/badge/-Git-A01368?style=for-the-badge&logo=git&logoColor=FF2400)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
+[![Git](https://img.shields.io/badge/-Git-A01368?style=for-the-badge&logo=git&logoColor=FF2400)]
 
 ![Coroutines](https://img.shields.io/badge/-Coroutines-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
 ![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
