@@ -23,7 +23,7 @@
 ![Hilt](https://img.shields.io/badge/-Hilt-A01368?style=for-the-badge&logo=hilt&logoColor=0D30CE)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-A01368?style=for-the-badge&logo=retrofit&logoColor=0D30CE)
 ## 😎Свяжитесь со мной
-[![Telegram](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://telegram.me/ivan_emelin)
+[![Telegram](https://img.shields.io/badge/Telegram-1974D2?style=for-the-badge&logo=telegram)](https://telegram.me/ivan_emelin)
 [![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ivaneme1in)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](//wa.me/+79164620904)
 ## 📊 Статистика
