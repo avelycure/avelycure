@@ -17,7 +17,7 @@
 ![RxJava2](https://img.shields.io/badge/-RxJava2-A01368?style=for-the-badge&logo=ReactiveX&logoColor=F64A8A)
 
 ![Coroutines](https://img.shields.io/badge/-Coroutines-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
-![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
+![Jetpack Compose](https://img.shields.io/badge/-JetpackCompose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
 ![Room](https://img.shields.io/badge/-Room-A01368?style=for-the-badge&logo=room&logoColor=0D30CE)
 ![Dagger](https://img.shields.io/badge/-Dagger-A01368?style=for-the-badge&logo=dagger&logoColor=0D30CE)
 ![Hilt](https://img.shields.io/badge/-Hilt-A01368?style=for-the-badge&logo=hilt&logoColor=0D30CE)
