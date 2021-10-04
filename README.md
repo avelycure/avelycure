@@ -10,7 +10,6 @@
 ## 😊Профессиональные навыки
 ![Coroutines](https://img.shields.io/badge/-Coroutines-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![RxJava2](https://img.shields.io/badge/-RxJava2-A01368?style=for-the-badge&logo=ReactiveX&logoColor=F64A8A)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -20,6 +19,7 @@
 ![Retrofit](https://img.shields.io/badge/-Retrofit-A01368?style=for-the-badge&logo=retrofit&logoColor=0D30CE)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Hilt](https://img.shields.io/badge/-Hilt-A01368?style=for-the-badge&logo=hilt&logoColor=0D30CE)
+![RxJava2](https://img.shields.io/badge/-RxJava2-ED8B00?style=for-the-badge&logo=ReactiveX&logoColor=F64A8A)
 ![Room](https://img.shields.io/badge/-Room-A01368?style=for-the-badge&logo=room&logoColor=0D30CE)
 ## 😎Свяжитесь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-1974D2?style=for-the-badge&logo=telegram)](https://telegram.me/ivan_emelin)
