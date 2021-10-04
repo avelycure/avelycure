@@ -17,9 +17,9 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-A01368?style=for-the-badge&logo=retrofit&logoColor=0D30CE)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Hilt](https://img.shields.io/badge/-Hilt-A01368?style=for-the-badge&logo=hilt&logoColor=0D30CE)
 ![RxJava2](https://img.shields.io/badge/-RxJava2-ED8B00?style=for-the-badge&logo=ReactiveX&logoColor=F64A8A)
+![Hilt](https://img.shields.io/badge/-Hilt-A01368?style=for-the-badge&logo=hilt&logoColor=0D30CE)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Room](https://img.shields.io/badge/-Room-A01368?style=for-the-badge&logo=room&logoColor=0D30CE)
 ## 😎Свяжитесь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-1974D2?style=for-the-badge&logo=telegram)](https://telegram.me/ivan_emelin)
