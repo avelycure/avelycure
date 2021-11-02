@@ -26,8 +26,10 @@
 [![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ivaneme1in)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](//wa.me/+79164620904)
 ## 📊 Статистика
+<p>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?&username=avelycure&count_private=true&theme=radical&hide=stars,issues)](https://github.com/avelycure) 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avelycure" alt="avelycure" />
+ </p>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avelycure/avelycure?label=last%20update"> <a href="#"> <img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=avelycure&color=yellow"/></a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
