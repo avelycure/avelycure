@@ -29,3 +29,5 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?&username=avelycure&count_private=true&theme=radical&hide=stars,issues)](https://github.com/avelycure) 
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avelycure/avelycure?label=last%20update"> <a href="#"> <img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=avelycure&color=yellow"/></a>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
