@@ -1,5 +1,5 @@
 ## ✋About me
-Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State Technical University. Bauman Department of Applied Mathematics 👨‍. I am developing Android applications and programming in Java, C ++ and Kotlin.
+Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State Technical University. Bauman Department of Applied Mathematics 👨‍. I am developing Android applications and programming in Kotlin, Java and C ++.
 ## 📓What can you find in my repositories
 * Android app MovieFan[[1]](https://github.com/avelycure/PhotoGallery "See more")
 * Scientific works[[3]](https://github.com/avelycure/ScientificWork "See more") работы
