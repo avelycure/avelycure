@@ -30,4 +30,17 @@
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avelycure/avelycure?label=last%20update"> <a href="#"> <img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=avelycure&color=yellow"/></a>
 
+- uses: Platane/snk@master
+  with:
+    github_user_name: ${{ github.avelycure }}
+
+    # path of the generated gif file
+    # If left empty, the gif file will not be generated
+    gif_out_path: dist/github-snake.gif
+
+    # path of the generated svg file
+    # If left empty, the svg file will not be generated
+    svg_out_path: dist/github-snake.svg
+
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/master/github-contribution-grid-snake.svg)
