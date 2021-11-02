@@ -7,7 +7,7 @@ Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State
 * Scientific works[[4]](https://github.com/avelycure/ScientificWork "See more")
 ## 😊Professional skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/-Coroutines-A01368?style=for-thehttps://github.com/avelycure/MovieFan-badge&logo=coroutines&logoColor=0D30CE)
+![Coroutines](https://img.shields.io/badge/Coroutines-A01368?style=for-thehttps://github.com/avelycure/MovieFan-badge&logo=coroutines&logoColor=0D30CE)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
