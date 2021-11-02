@@ -26,9 +26,9 @@
 [![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ivaneme1in)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](//wa.me/+79164620904)
 ## 📊 Статистика
+<p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=avelycure"><img width="100%"/></a></p>
 <p class="aligncenter">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avelycure" alt="avelycure" class="center"/>
-</p>
+
 
 | <a href="https://github.com/avelycure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avelycure&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide=stars,issues" alt="Ivan's github stats" /></a> | <a href="https://github.com/avelycure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelycure&layout=compact&theme=radical&langs_count=4&cache_seconds=1800&hide_border=true" /></a> |
 | ------------- | ------------- |
