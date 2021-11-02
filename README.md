@@ -30,4 +30,4 @@
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avelycure/avelycure?label=last%20update"> <a href="#"> <img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=avelycure&color=yellow"/></a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/master/github-contribution-grid-snake.svg)
