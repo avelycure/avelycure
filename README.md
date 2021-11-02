@@ -28,9 +28,9 @@
 ## 📊 Статистика
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=avelycure" alt="avelycure" /></p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?&username=avelycure&count_private=true&theme=radical&hide=stars,issues)](https://github.com/avelycure) 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?&username=avelycure&count_private=true&theme=radical&layout=compact&hide=stars,issues)](https://github.com/avelycure) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avelycure&show_icons=true&theme=radical&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/avelycure)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avelycure&show_icons=true&theme=radical&layout=compact&cache_seconds=1800&langs_count=4)](https://github.com/avelycure)
  
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avelycure/avelycure?label=last%20update"> <a href="#"> <img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=avelycure&color=yellow"/></a>
 
