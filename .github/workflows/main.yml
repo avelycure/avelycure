@@ -1,25 +1,24 @@
 name: generate animation
 
 on:
+
   schedule:
     - cron: "0 */6 * * *"
     
   workflow_dispatch:
 
   push:
-    branches: [ master ]
+    branches: 
+    - master
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
-  build:
-    runs-on: ubuntu-latest
 
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: avelycure/master
+        uses: avelycure/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
