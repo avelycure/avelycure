@@ -1,23 +1,32 @@
 ## ✋About me
 Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State Technical University. Bauman Department of Applied Mathematics 👨‍. I am developing Android applications and programming in Kotlin, Java and C ++.
 ## 📓What can you find in my repositories
-* Android app MovieFan[[1]](https://github.com/avelycure/MovieFan "See more")
-* Android app PhotoGallery[[2]](https://github.com/avelycure/PhotoGallery "See more")
-* Solving leetcode problems[[3]](https://github.com/avelycure/LeetcodePractice)
-* Scientific works[[4]](https://github.com/avelycure/ScientificWork "See more")
-## 😊Professional skills
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+* [MovieFan](https://github.com/avelycure/MovieFan "See more") - app for getting information about movies from TMDB
+* [CryptoStats](https://github.com/avelycure/CryptoStats) - app that shows cryptocurrency statistic
+* [PhotoGallery](https://github.com/avelycure/PhotoGallery "See more") - for watching images from Flick.com
+* [Solving leetcode problems](https://github.com/avelycure/LeetcodePractice)
+* [Scientific works](https://github.com/avelycure/ScientificWork "See more")
+## 😊Favourite tools
+### Languages
+<a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"/>
+ <a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-e76e12.svg?logo=java&logoColor=white"/>
+<a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-00599C.svg?logo=c%2B%2B&logoColor=white"/>
+ <a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3A"><img alt="Android" src="https://img.shields.io/badge/Android%20-00DE7A.svg?logo=c%2B%2B&logoColor=white"/>
+
+### Async work
 ![Coroutines](https://img.shields.io/badge/-Coroutines-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Dagger](https://img.shields.io/badge/-Dagger-A01368?style=for-the-badge&logo=dagger&logoColor=0D30CE)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Hilt](https://img.shields.io/badge/-Hilt-A01368?style=for-the-badge&logo=hilt&logoColor=0D30CE)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Retrofit](https://img.shields.io/badge/-Retrofit-A01368?style=for-the-badge&logo=retrofit&logoColor=0D30CE)
-![RxJava2](https://img.shields.io/badge/-RxJava2-ED8B00?style=for-the-badge&logo=ReactiveX&logoColor=A01368)
+![RxJava3](https://img.shields.io/badge/-RxJava2-ED8B00?style=for-the-badge&logo=ReactiveX&logoColor=A01368)
+### Databases
 ![Room](https://img.shields.io/badge/-Room-A01368?style=for-the-badge&logo=room&logoColor=0D30CE)
+### Network
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Retrofit](https://img.shields.io/badge/-Retrofit-A01368?style=for-the-badge&logo=retrofit&logoColor=0D30CE)
+### UI
+![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
+### DI
+![Dagger](https://img.shields.io/badge/-Dagger-A01368?style=for-the-badge&logo=dagger&logoColor=0D30CE)
+![Hilt](https://img.shields.io/badge/-Hilt-A01368?style=for-the-badge&logo=hilt&logoColor=0D30CE)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 📫Contact me
 If you want to contact me, click on the links below or write me an email: van.emelin2012@yandex.ru.
