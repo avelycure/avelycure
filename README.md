@@ -11,7 +11,7 @@ Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State
 <a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"/>
  <a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-e76e12.svg?logo=java&logoColor=white"/>
 <a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-00599C.svg?logo=c%2B%2B&logoColor=white"/>
- <a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3A"><img alt="Android" src="https://img.shields.io/badge/Android%20-00DE7A.svg?logo=c%2B%2B&logoColor=white"/>
+ <a href="https://github.com/search?q=user%3Aavelycure+is%3Arepo+language%3A"><img alt="Android" src="https://img.shields.io/badge/Android%20-00DE7A.svg"/>
 
 ### Async work
 ![Coroutines](https://img.shields.io/badge/-Coroutines-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
