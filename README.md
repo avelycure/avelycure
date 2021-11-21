@@ -13,10 +13,12 @@ Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State
 <img alt="C++" src="https://img.shields.io/badge/C++%20-00599C.svg?logo=c%2B%2B&logoColor=white"/></img>
 
  ### Frameworks and libraries
+ 
 <img alt="Android" src="https://img.shields.io/badge/Android%20-00DE7A.svg"/></img>
 <img alt="Coroutines" src="https://img.shields.io/badge/-Kotlin%20Coroutines-D5713F"/></img>
 <img alt="RxJava3" src="https://img.shields.io/badge/-RxJava%203-0D30CE"/></img>
 <img alt="Room" src="https://img.shields.io/badge/-Room-259389"/></img>
+
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-A01368?style=for-the-badge&logo=retrofit&logoColor=0D30CE)
 ![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
