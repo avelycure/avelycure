@@ -8,24 +8,31 @@ Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State
 * [Scientific works](https://github.com/avelycure/ScientificWork "See more")
 ## 😊Favourite tools
 ### Languages
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"/></img>
-<img alt="Java" src="https://img.shields.io/badge/Java-e76e12.svg?logo=java&logoColor=white"/></img>
-<img alt="C++" src="https://img.shields.io/badge/C++%20-00599C.svg?logo=c%2B%2B&logoColor=white"/></img>
+<a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://docs.oracle.com/javase/tutorial/"><img alt="Java" src="https://img.shields.io/badge/Java-e76e12.svg?logo=java&logoColor=white"></a>
+<a href="https://en.cppreference.com/w/"><img alt="C++" src="https://img.shields.io/badge/C++%20-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
 
  ### Frameworks and libraries
- 
-<img alt="Android" src="https://img.shields.io/badge/Android%20-00DE7A.svg"/></img>
-<img alt="Coroutines" src="https://img.shields.io/badge/-Kotlin%20Coroutines-D5713F"/></img>
-<img alt="RxJava3" src="https://img.shields.io/badge/-RxJava%203-0D30CE"/></img>
-<img alt="Room" src="https://img.shields.io/badge/-Room-259389"/></img>
-
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Retrofit](https://img.shields.io/badge/-Retrofit-A01368?style=for-the-badge&logo=retrofit&logoColor=0D30CE)
-![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-A01368?style=for-the-badge&logo=coroutines&logoColor=0D30CE)
-![Dagger](https://img.shields.io/badge/-Dagger-A01368?style=for-the-badge&logo=dagger&logoColor=0D30CE)
-![Hilt](https://img.shields.io/badge/-Hilt-A01368?style=for-the-badge&logo=hilt&logoColor=0D30CE)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<a href="https://www.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android%20-00DE7A.svg"></a>
+<a href="https://kotlinlang.org/docs/coroutines-overview.html"><img alt="Coroutines" src="https://img.shields.io/badge/-Kotlin%20Coroutines-D5713F"></a>
+<a href="https://github.com/ReactiveX/RxJava"><img alt="RxJava3" src="https://img.shields.io/badge/-RxJava%203-0D30CE"></a>
+<a href="https://github.com/ReactiveX/RxAndroid"><img alt="RxAndroid" src="https://img.shields.io/badge/-RxAndroid-0D30CE"></a>
+<a href="https://developer.android.com/training/data-storage/room"><img alt="Room" src="https://img.shields.io/badge/-Room-FF2400"></a>
+<a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFB02E?style=for-the-badge&logo=firebase&logoColor=black"></a>
+<a href="https://square.github.io/retrofit/"><img alt="Retrofit" src="https://img.shields.io/badge/-Retrofit-259389"></a>
+<a href="https://developer.android.com/jetpack/compose"><img alt="JetpackCompose" src="https://img.shields.io/badge/-JetpackCompose-1164B4"></a>
+<a href="https://dagger.dev/dev-guide/android.html"><img alt="Dagger" src="https://img.shields.io/badge/-Dagger-1DACD6"></a>
+<a href="https://dagger.dev/dev-guide/android.html"><img alt="Koin" src="https://img.shields.io/badge/-Koin-31372B"></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032"></a>
+<a href="https://coil-kt.github.io/coil/"><img alt="Coil" src="https://img.shields.io/badge/-Coil-2B6CC4"></a>
+<a href="https://developer.android.com/topic/libraries/architecture/paging/v3-overview"><img alt="Paging3" src="https://img.shields.io/badge/-Paging3-00A550"></a>
+<a href="https://site.mockito.org/"><img alt="Mockito" src="https://img.shields.io/badge/-Mockito-99FF99"></a>
+<a href="https://developer.android.com/training/testing/espresso"><img alt="Espresso" src="https://img.shields.io/badge/-Espresso-A5694F"></a>
+<a href="https://whatis.techtarget.com/definition/Model-View-ViewModel"><img alt="MVVM" src="https://img.shields.io/badge/-MVVM-8A2BE2"></a>
+<a href="https://ktor.io/docs/http-client-multiplatform.html"><img alt="Ktor" src="https://img.shields.io/badge/-Ktor-151719"></a>
+<a href="https://developer.android.com/kotlin/flow"><img alt="Flow" src="https://img.shields.io/badge/-Flow-483D8B"></a>
+</p>
   
 ## 📫Contact me
 If you want to contact me, click on the links below or write me an email: van.emelin2012@yandex.ru.
