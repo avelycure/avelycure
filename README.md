@@ -44,7 +44,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 
 <a href="https://telegram.me/ivan_emelin"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1974D2.svg?logo=telegram"></a>
 <a href="https://vk.com/ivaneme1in"><img alt="ВКонтакте" src="https://img.shields.io/badge/ВКонтакте-%232E87FB.svg?&logo=vk"></a>
-<a href="//wa.me/+79164620904"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp"></a>
+<a href="//wa.me/+79164620904"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"></a>
 
 ## 📊Statistics
 
