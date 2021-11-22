@@ -19,7 +19,7 @@ Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State
 <a href="https://github.com/ReactiveX/RxJava"><img alt="RxJava3" src="https://img.shields.io/badge/-RxJava%203-0D30CE"></a>
 <a href="https://github.com/ReactiveX/RxAndroid"><img alt="RxAndroid" src="https://img.shields.io/badge/-RxAndroid-0D30CE"></a>
 <a href="https://developer.android.com/training/data-storage/room"><img alt="Room" src="https://img.shields.io/badge/-Room-FF2400"></a>
-<a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFB02E?style=for-the-badge&logo=firebase&logoColor=black"></a>
+<a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFB02E"></a>
 <a href="https://square.github.io/retrofit/"><img alt="Retrofit" src="https://img.shields.io/badge/-Retrofit-259389"></a>
 <a href="https://developer.android.com/jetpack/compose"><img alt="JetpackCompose" src="https://img.shields.io/badge/-JetpackCompose-1164B4"></a>
 <a href="https://dagger.dev/dev-guide/android.html"><img alt="Dagger" src="https://img.shields.io/badge/-Dagger-1DACD6"></a>
