@@ -56,6 +56,78 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,276 Contributions in the Year 2021
+ > 
+> 📦 40.9 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
+🌆 Daytime    250 commits    ████████░░░░░░░░░░░░░░░░░   34.53% 
+🌃 Evening    336 commits    ███████████░░░░░░░░░░░░░░   46.41% 
+🌙 Night      47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
+Tuesday      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Wednesday    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+Thursday     116 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
+Saturday     105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
+Sunday       146 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Kotlin** 
+
+```text
+Kotlin                   6 repos             █████████████░░░░░░░░░░░░   54.55% 
+C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/avelycure/avelycure/master/charts/bar_graph.png) 
+
+
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
