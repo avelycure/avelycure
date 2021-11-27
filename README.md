@@ -54,7 +54,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 | ------------- | ------------- |
 
 <p>
-![github graph](https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true)
+https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true
 </p>
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
