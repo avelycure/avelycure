@@ -56,7 +56,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110034%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,9 +73,9 @@ If you want to contact me, click on the links below or write me an email: van.em
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
+🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
 🌆 Daytime    250 commits    ████████░░░░░░░░░░░░░░░░░   34.53% 
-🌃 Evening    336 commits    ███████████░░░░░░░░░░░░░░   46.41% 
+🌃 Evening    338 commits    ███████████░░░░░░░░░░░░░░   46.69% 
 🌙 Night      47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49%
 
 ```
@@ -87,8 +87,8 @@ Tuesday      104 commits    ███░░░░░░░░░░░░░░�
 Wednesday    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
 Thursday     116 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
 Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
-Saturday     105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-Sunday       146 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17%
+Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
+Sunday       144 commits    █████░░░░░░░░░░░░░░░░░░░░   19.89%
 
 ```
 
@@ -96,35 +96,7 @@ Sunday       146 commits    █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   6 repos             █████████████░░░░░░░░░░░░   54.55% 
-C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/avelycure/avelycure/master/charts/bar_graph.png) 
 
 
  Last Updated on 27/11/2021
