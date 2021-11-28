@@ -56,13 +56,13 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110034%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109691%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,279 Contributions in the Year 2021
+> 🏆 1,292 Contributions in the Year 2021
  > 
-> 📦 40.9 kB Used in GitHub's Storage 
+> 📦 41.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,21 +74,21 @@ If you want to contact me, click on the links below or write me an email: van.em
 
 ```text
 🌞 Morning    88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
-🌆 Daytime    250 commits    ████████░░░░░░░░░░░░░░░░░   34.53% 
-🌃 Evening    339 commits    ███████████░░░░░░░░░░░░░░   46.82% 
-🌙 Night      47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49%
+🌆 Daytime    252 commits    ████████░░░░░░░░░░░░░░░░░   34.81% 
+🌃 Evening    340 commits    ███████████░░░░░░░░░░░░░░   46.96% 
+🌙 Night      44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.08%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-Tuesday      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Monday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
+Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
 Wednesday    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
 Thursday     116 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
 Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
 Saturday     108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-Sunday       143 commits    █████░░░░░░░░░░░░░░░░░░░░   19.75%
+Sunday       155 commits    █████░░░░░░░░░░░░░░░░░░░░   21.41%
 
 ```
 
