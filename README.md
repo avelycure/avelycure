@@ -60,9 +60,9 @@ If you want to contact me, click on the links below or write me an email: van.em
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,292 Contributions in the Year 2021
+> 🏆 1,294 Contributions in the Year 2021
  > 
-> 📦 41.0 kB Used in GitHub's Storage 
+> 📦 53.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
