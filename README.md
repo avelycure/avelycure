@@ -70,40 +70,6 @@ If you want to contact me, click on the links below or write me an email: van.em
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
-🌆 Daytime    252 commits    ████████░░░░░░░░░░░░░░░░░   34.81% 
-🌃 Evening    340 commits    ███████████░░░░░░░░░░░░░░   46.96% 
-🌙 Night      44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.08%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
-Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-Wednesday    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
-Thursday     116 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
-Saturday     108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-Sunday       155 commits    █████░░░░░░░░░░░░░░░░░░░░   21.41%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -115,7 +81,7 @@ Java                     2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 28/11/2021
+ Last Updated on 29/11/2021
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
