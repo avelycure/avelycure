@@ -50,7 +50,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 
 <p align="center"><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=avelycure&theme=radical" /></p>
 
-| <a href="https://github.com/avelycure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avelycure&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide=stars,issues" alt="Ivan's github stats" /></a> | <a href="https://github.com/avelycure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelycure&layout=compact&theme=radical&include_all_commits=true&langs_count=4&cache_seconds=1800&hide_border=true" /></a> |
+| <a href="https://github.com/avelycure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avelycure&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide=stars,issues" alt="Ivan's github stats" /></a> | <a href="https://github.com/avelycure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelycure&layout=compact&theme=radical&include_all_commits=true&langs_count=6&cache_seconds=1800&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
