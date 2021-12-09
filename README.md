@@ -56,6 +56,8 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%204%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--6%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -97,18 +99,15 @@ Sunday       163 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      43 hrs 12 mins      ███████████████████████░░   94.48% 
-Kotlin                   1 hr 34 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-Makefile                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
-Groovy                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
-Java                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+C++                      33 hrs 54 mins      ████████████████████████░   98.93% 
+Makefile                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🔥 Editors: 
-VS Code                  43 hrs 44 mins      ████████████████████████░   95.65% 
-Android Studio           1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+VS Code                  34 hrs 16 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    45 hrs 43 mins      █████████████████████████   100.0%
+Linux                    34 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +122,7 @@ Java                     2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
