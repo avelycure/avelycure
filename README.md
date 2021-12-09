@@ -37,7 +37,7 @@ Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State
 <a href="https://whatis.techtarget.com/definition/Model-View-ViewModel"><img alt="MVVM" src="https://img.shields.io/badge/-MVVM-8A2BE2"></a>
 <a href="https://ktor.io/docs/http-client-multiplatform.html"><img alt="Ktor" src="https://img.shields.io/badge/-Ktor-151719"></a>
 <a href="https://developer.android.com/kotlin/flow"><img alt="Flow" src="https://img.shields.io/badge/-Flow-483D8B"></a>
-<a href=https://www.open-mpi.org"><img alt="MPI" src="https://img.shields.io/badge/-MPI-00599C"></a>
+<a href="https://www.open-mpi.org"><img alt="MPI" src="https://img.shields.io/badge/-MPI-00599C"></a>
 </p>
   
 ## 📫Contact me
