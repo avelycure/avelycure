@@ -57,13 +57,11 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2036%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,431 Contributions in the Year 2021
+> 🏆 1,432 Contributions in the Year 2021
  > 
 > 📦 53.2 kB Used in GitHub's Storage 
  > 
@@ -86,11 +84,11 @@ If you want to contact me, click on the links below or write me an email: van.em
 
 ```text
 Monday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
-Tuesday      106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
+Tuesday      107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
 Wednesday    75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
 Thursday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
 Friday       86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
-Saturday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Saturday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
 Sunday       165 commits    █████░░░░░░░░░░░░░░░░░░░░   21.1%
 
 ```
@@ -100,17 +98,17 @@ Sunday       165 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      28 hrs 41 mins      █████████████████████░░░░   87.08% 
-JSON                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Makefile                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
+C++                      28 hrs 57 mins      ██████████████████████░░░   87.89% 
+JSON                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.96% 
+Makefile                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  32 hrs 56 mins      █████████████████████████   100.0%
+VS Code                  32 hrs 57 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    32 hrs 56 mins      █████████████████████████   100.0%
+Linux                    32 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -125,7 +123,7 @@ Java                     2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 22/12/2021
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
