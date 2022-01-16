@@ -98,13 +98,13 @@ Sunday       165 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -119,7 +119,7 @@ Java                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 15/01/2022
+ Last Updated on 16/01/2022
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
