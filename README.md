@@ -3,11 +3,7 @@
 Hi, my name is Emelin Ivan, I am 21, I am a 4th year student at the Moscow State Technical University. Bauman Department of Applied Mathematics 👨‍. I am developing Android applications and programming in Kotlin, Java and C ++
 
 ## 📓What can you find in my repositories
-* [MovieFan](https://github.com/avelycure/MovieFan "See more") - app for getting information about movies from TMDB
-* [CryptoStats](https://github.com/avelycure/CryptoStats) - app that shows cryptocurrency statistic
-* [PhotoGallery](https://github.com/avelycure/PhotoGallery "See more") - for watching images from Flick.com
-* [Solving leetcode problems](https://github.com/avelycure/LeetcodePractice)
-* [Scientific works](https://github.com/avelycure/ScientificWork "See more")
+Check out my [RepositoryMap](https://github.com/avelycure/RepositoriesMap) to easily navigate between my projects
 
 ## 😊Favourite tools
 
