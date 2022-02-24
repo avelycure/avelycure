@@ -53,8 +53,6 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2055%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -124,7 +122,7 @@ Mathematica              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2022 18:48:29 UTC
+ Last Updated on 24/02/2022 18:49:22 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
