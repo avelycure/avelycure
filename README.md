@@ -53,6 +53,8 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%209%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -94,16 +96,13 @@ Sunday       205 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   2 hrs 45 mins       ███████████████████████░░   93.0% 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
-Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
-Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
+Kotlin                   2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Android Studio           2 hrs 58 mins       █████████████████████████   100.0%
+Android Studio           2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.0%
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +119,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2022 18:51:17 UTC
+ Last Updated on 26/04/2022 18:55:50 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
