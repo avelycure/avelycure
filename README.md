@@ -53,6 +53,8 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -94,18 +96,18 @@ Sunday       207 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   10 hrs 44 mins      ████████████████████████░   96.7% 
-Groovy                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
+Kotlin                   13 hrs 50 mins      ████████████████████████░   97.42% 
+Groovy                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92% 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-Android Studio           11 hrs 6 mins       █████████████████████████   100.0%
+Android Studio           14 hrs 12 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  11 hrs 4 mins       █████████████████████████   99.56% 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+Windows                  14 hrs 9 mins       █████████████████████████   99.66% 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 ```
 
@@ -122,7 +124,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 18:55:32 UTC
+ Last Updated on 07/05/2022 18:53:53 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
