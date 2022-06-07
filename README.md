@@ -94,13 +94,15 @@ Sunday       224 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     7 mins              ██████████████████████░░░   90.17% 
+Makefile                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -117,7 +119,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2022 18:48:02 UTC
+ Last Updated on 07/06/2022 18:47:29 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
