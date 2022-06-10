@@ -53,7 +53,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -94,15 +94,19 @@ Sunday       224 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     7 mins              ██████████████████████░░░   90.17% 
-Makefile                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+Kotlin                   1 hr 42 mins        ███████████████░░░░░░░░░░   63.14% 
+XML                      51 mins             ████████░░░░░░░░░░░░░░░░░   31.58% 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+Android Studio           2 hrs 33 mins       ███████████████████████░░   94.72% 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.0%
+Windows                  2 hrs 33 mins       ███████████████████████░░   94.72% 
+Linux                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
 
 ```
 
@@ -119,7 +123,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2022 18:47:13 UTC
+ Last Updated on 10/06/2022 18:49:53 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
