@@ -55,7 +55,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,17 +96,17 @@ Sunday       224 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   5 hrs 59 mins       ████████████████████████░   96.99% 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Kotlin                   11 hrs 58 mins      ████████████████████████░   96.37% 
+XML                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Android Studio           6 hrs 10 mins       █████████████████████████   100.0%
+Android Studio           12 hrs 25 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 10 mins       █████████████████████████   100.0%
+Windows                  12 hrs 25 mins      █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +123,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2022 18:45:23 UTC
+ Last Updated on 20/06/2022 18:49:51 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
