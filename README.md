@@ -55,7 +55,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,17 +96,17 @@ Sunday       224 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   4 hrs 49 mins       ██████████████████░░░░░░░   72.78% 
-XML                      1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   26.7% 
-Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+Kotlin                   6 hrs 24 mins       ██████████████████░░░░░░░   74.0% 
+XML                      2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.6% 
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Android Studio           6 hrs 38 mins       █████████████████████████   100.0%
+Android Studio           8 hrs 39 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 38 mins       █████████████████████████   100.0%
+Windows                  8 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +123,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2022 18:48:49 UTC
+ Last Updated on 19/07/2022 18:51:08 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
