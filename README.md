@@ -61,7 +61,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 
 > 🏆 555 Contributions in the Year 2022
  > 
-> 📦 486.8 kB Used in GitHub's Storage 
+> 📦 486.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -109,17 +109,17 @@ No Activity Tracked This Week
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   18 repos            █████████████░░░░░░░░░░░░   52.94% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Mathematica              2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+Kotlin                   19 repos            █████████████░░░░░░░░░░░░   54.29% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Mathematica              2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
 
 ```
 
 
 
- Last Updated on 23/08/2022 18:49:08 UTC
+ Last Updated on 24/08/2022 18:56:05 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
