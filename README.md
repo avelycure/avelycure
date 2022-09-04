@@ -55,13 +55,13 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 563 Contributions in the Year 2022
  > 
-> 📦 487.3 kB Used in GitHub's Storage 
+> 📦 487.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -69,47 +69,6 @@ If you want to contact me, click on the links below or write me an email: van.em
  > 
 > 🔑 18 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    122 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-🌆 Daytime    346 commits    ███████░░░░░░░░░░░░░░░░░░   28.74% 
-🌃 Evening    622 commits    █████████████░░░░░░░░░░░░   51.66% 
-🌙 Night      114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.47%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       208 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Tuesday      156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
-Wednesday    124 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Thursday     172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Friday       129 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Saturday     184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
-Sunday       231 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.19%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   17 mins             ███████████████████████░░   92.55% 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
-
-🔥 Editors: 
-Android Studio           18 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -123,7 +82,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 18:48:30 UTC
+ Last Updated on 04/09/2022 18:48:00 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
