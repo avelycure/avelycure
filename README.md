@@ -55,7 +55,7 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,17 +96,17 @@ Sunday       187 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   6 hrs 3 mins        ███████████████████████░░   92.77% 
-Groovy                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.61% 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Kotlin                   6 hrs 31 mins       ███████████████████████░░   92.55% 
+Groovy                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-Android Studio           6 hrs 31 mins       █████████████████████████   100.0%
+Android Studio           7 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 31 mins       █████████████████████████   100.0%
+Windows                  7 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +123,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2022 18:54:34 UTC
+ Last Updated on 03/10/2022 19:00:22 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
