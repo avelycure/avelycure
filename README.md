@@ -96,17 +96,13 @@ Sunday       187 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   2 hrs 31 mins       ███████████████████████░░   93.62% 
-Groovy                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
-Shrinker Config File     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           2 hrs 41 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -123,7 +119,7 @@ Mathematica              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2022 18:55:13 UTC
+ Last Updated on 16/10/2022 18:55:11 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
