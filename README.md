@@ -1,6 +1,6 @@
 ## ✋About me
 
-Hi, my name is Emelin Ivan, I am 22, I am a graduate of Bauman Moscow State Technical University majoring in Applied Mathematics 👨‍. 
+Hi, my name is Emelin Ivan, I am 23, I am a graduate of Bauman Moscow State Technical University majoring in Applied Mathematics 👨‍. 
 
 I am developing Android applications and programming in Kotlin, Java and C++
 
