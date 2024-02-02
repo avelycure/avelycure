@@ -61,8 +61,6 @@ If you want to contact me, click on the links below or write me an email: van.em
 
 > 📦 593.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -116,7 +114,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2024 18:40:19 UTC
+ Last Updated on 02/02/2024 18:39:24 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
