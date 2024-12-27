@@ -106,17 +106,17 @@ No Activity Tracked This Week
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   32 repos            █████████████████░░░░░░░░   66.67 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Mathematica              2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Kotlin                   31 repos            ████████████████░░░░░░░░░   65.96 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Mathematica              2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
 
 
- Last Updated on 26/12/2024 18:45:44 UTC
+ Last Updated on 27/12/2024 18:44:45 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
