@@ -55,11 +55,11 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2028%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 766.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -114,7 +114,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2025 18:53:00 UTC
+ Last Updated on 04/06/2025 18:52:19 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
