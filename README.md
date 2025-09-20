@@ -55,8 +55,6 @@ If you want to contact me, click on the links below or write me an email: van.em
 <p><a><img src="https://activity-graph.herokuapp.com/graph?username=avelycure&theme=radical&hide_border=true&area=true"></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2028%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 766.2 kB Used in GitHub's Storage 
@@ -69,40 +67,6 @@ If you want to contact me, click on the links below or write me an email: van.em
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-🌆 Daytime                843 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌃 Evening                1278 commits        ████████████░░░░░░░░░░░░░   48.52 % 
-🌙 Night                  195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   399 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Tuesday                  331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Wednesday                261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Thursday                 321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Friday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 555 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Sunday                   423 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -116,7 +80,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 18:48:23 UTC
+ Last Updated on 20/09/2025 18:44:04 UTC
 <!--END_SECTION:waka-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/avelycure/avelycure/output/github-contribution-grid-snake.svg)
